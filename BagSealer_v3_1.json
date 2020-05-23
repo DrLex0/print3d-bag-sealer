@@ -1,0 +1,40 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "BagOfNuts": {
+            "gap": "0.85",
+            "generate": "both",
+            "heavy_duty": "no",
+            "length": "115",
+            "nubs": "yes"
+        },
+        "MylarFilamentBag": {
+            "gap": "0.8",
+            "generate": "both",
+            "heavy_duty": "no",
+            "length": "155",
+            "nubs": "yes"
+        },
+        "MylarFilamentBag310-A": {
+            "gap": "0.8",
+            "generate": "both",
+            "heavy_duty": "no",
+            "length": "147",
+            "nubs": "yes"
+        },
+        "MylarFilamentBag310-B": {
+            "gap": "0.8",
+            "generate": "both",
+            "heavy_duty": "no",
+            "length": "163",
+            "nubs": "yes"
+        },
+        "Example": {
+            "gap": "0.9",
+            "generate": "both",
+            "heavy_duty": "no",
+            "length": "100",
+            "nubs": "yes"
+        }
+    }
+}
