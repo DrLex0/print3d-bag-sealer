@@ -34,7 +34,7 @@ Print with at least 2 perimeters and a good number of top and bottom layers.
 
 If your printer is not large enough to print a single clip for a large bag, just print two and mount them side-by-side (see photos of filament bag). Very long clips are too unwieldy anyway. Tip: to allow to combine two separate clips into one rigid unit, make them in different lengths (at least 20 mm difference) and use the shorter insert in the longer clip and vice versa. Then the piece of insert sticking out can be used to connect with the other clip.
 
-These work in any material although **PETG** is the filament of choice due to its flexibility and durability. PLA will provide a stiff clip, but it does tend to bend over time and lose some of its springiness (especially in warmer environments). It also has a higher risk of breaking especially after it has absorbed some moisture. ABS is somewhere in between PETG and PLA when it comes to stiffness and durability.
+These work in any material although **PETG** is by far the filament of choice due to its flexibility and durability. PLA will provide a stiff clip, but it does tend to bend over time and lose some of its springiness (especially in warmer environments). It also has a higher risk of breaking especially after it has absorbed some moisture. ABS is somewhere in between PETG and PLA when it comes to stiffness and durability.
 
 
 ### Post-printing
